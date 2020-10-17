@@ -23,6 +23,10 @@
 
 <br>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamehElalfi&langs_count=10&theme=tokyonight&layout=compact" alt="Sameh Elalfi :: Top Langs" />
+
+<br>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | PHP | JavaScript
@@ -33,11 +37,6 @@
 
 <br>
 
-<h3 align="center">Top langs :tongue:</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamehElalfi&langs_count=10&theme=tokyonight&layout=compact" alt="Sameh Elalfi :: Top Langs" />
-
-
-<br>
 
 <h3 align="center">📫 How to reach me:</h3>
 
