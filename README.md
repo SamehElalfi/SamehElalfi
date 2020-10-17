@@ -15,7 +15,9 @@
 - 🌱 &nbsp; I’m currently learning Vue.js and nuxt.js.
 - 💬 &nbsp; Ask me about Web Development.
 
-😄 My website: https://elalfi.works/
+<h2>😄 My website: https://elalfi.works/</h2>
+
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamehELalfi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sameh Elalfi's Github Stats">
 
@@ -29,12 +31,15 @@
 - 🔧 &nbsp; PyCharm | Visual Studio code | PHP Storm | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
+<br>
 
+<div algin="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamehElalfi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SamehElalfi)
+</div>
 
+<br>
 
-
-<h3 style="color:green;">📫 How to reach me:</h3>
+<h3 align="center">📫 How to reach me:</h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/elalfi_sameh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
