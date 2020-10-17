@@ -17,8 +17,6 @@
 - 🌱 &nbsp; I’m currently learning Vue.js and nuxt.js.
 - 💬 &nbsp; Ask me about Web Development.
 
-<h3>😄 My website: https://elalfi.works/</h3>
-
 <br>
 
 
@@ -43,8 +41,9 @@
 <h3 align="center">📫 How to reach me:</h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/elalfi_sameh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.facebook.com/sameh.elalfi15/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/sameh-elalfi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sameh.elalfi.mail@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  &nbsp; <a href="https://twitter.com/elalfi_sameh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+  &nbsp; <a href="https://www.facebook.com/sameh.elalfi15/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
+  &nbsp; <a href="https://www.linkedin.com/in/sameh-elalfi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="mailto:sameh.elalfi.mail@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <h3>😄 My website: https://elalfi.works/</h3>
 </p>
