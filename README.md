@@ -34,7 +34,7 @@
 
 
 
-<h3 style="text-align:center">📫 How to reach me:</h3>
+<h3 style="color:green;">📫 How to reach me:</h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/elalfi_sameh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
