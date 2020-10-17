@@ -33,7 +33,9 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamehElalfi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SamehElalfi)
+<h3 align="center">Top langs :tongue:</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamehElalfi&langs_count=10&theme=tokyonight&layout=compact" alt="Sameh Elalfi :: Top Langs" /></p>
+
 
 <br>
 
