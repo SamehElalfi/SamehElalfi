@@ -1,6 +1,9 @@
 <br>
 
 <h2> Hey there! I'm Sameh. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+Prolific, Certificated Full Stack Web Developer. an ambitious problem solver. I have a keen interest in User Experience and User Interface (UX/UI). Passionate about software architecture
+<br><br>
+I have a very good command of HTML, CSS & JavaScript. I've been working on web development, mainly using PHP, Python, and JavaScript. I specialize in creating websites that conform to the latest web standards
 
 <br>
 
